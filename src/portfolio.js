@@ -175,7 +175,7 @@ const degrees = {
         "⚡ Faculty Honors (All semester)",
       ],
       website_link: "https://www.trincoll.edu/",
-    // },
+    }
     // {
     //   title: "Chelsea International Academy",
     //   subtitle: "GCE A-Level",
