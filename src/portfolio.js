@@ -13,15 +13,15 @@ const seo = {
   og: {
     title: "Divas Sudedi Portfolio",
     type: "website",
-    url: "https://divas-subedi.netlify.app",
+    url: "https://dsubedi.me",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Divas Subedi",
-  logo_name: "Divas Subdedi",
-  nickname: "thunder753",
+  logo_name: "Divas Subedi",
+  nickname: "",
   subTitle:
     "Interested in research in mathematical physics, quantum computing, and algorithms.",
   resumeLink:
@@ -175,31 +175,31 @@ const degrees = {
         "⚡ Faculty Honors (All semester)",
       ],
       website_link: "https://www.trincoll.edu/",
-    },
-    {
-      title: "Chelsea International Academy",
-      subtitle: "GCE A-Level",
-      logo_path: "chelsea.png",
-      alt_name: "chelsea-intl",
-      duration: "2015 - 2017",
-      descriptions: [
-        "⚡ Cumulative GPA: 4.0 / 4.0",
-        "⚡ Aru kk gareko thees samjidhai lekh",
-      ],
-      website_link: "https://www.facebook.com/ChelseaInternationalAcademy/",
-    },
-    {
-      title: "DAV School, Biratnagar",
-      subtitle: "SLC",
-      logo_path: "dav.jpeg",
-      alt_name: "dav-school",
-      duration: "2006 - 2015",
-      descriptions: [
-        "⚡ Class Topper",
-        "⚡ Ma gaye pachi kehi kanda gareko thees ke?? Samjhera lekh  ",
-      ],
-      website_link: "https://www.dav.edu.np/",
-    },
+    // },
+    // {
+    //   title: "Chelsea International Academy",
+    //   subtitle: "GCE A-Level",
+    //   logo_path: "chelsea.png",
+    //   alt_name: "chelsea-intl",
+    //   duration: "2015 - 2017",
+    //   descriptions: [
+    //     "⚡ Cumulative GPA: 4.0 / 4.0",
+    //     "⚡ Aru kk gareko thees samjidhai lekh",
+    //   ],
+    //   website_link: "https://www.facebook.com/ChelseaInternationalAcademy/",
+    // },
+    // {
+    //   title: "DAV School, Biratnagar",
+    //   subtitle: "SLC",
+    //   logo_path: "dav.jpeg",
+    //   alt_name: "dav-school",
+    //   duration: "2006 - 2015",
+    //   descriptions: [
+    //     "⚡ Class Topper",
+    //     "⚡ Ma gaye pachi kehi kanda gareko thees ke?? Samjhera lekh  ",
+    //   ],
+    //   website_link: "https://www.dav.edu.np/",
+    // },
   ],
 };
 
