@@ -1,0 +1,13 @@
+/* .raw_logo {
+  height: 305;
+  width: 440;
+} */
+
+.raw_logo {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

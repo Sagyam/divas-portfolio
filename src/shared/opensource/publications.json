@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Characterizing limits of vision-based force feedback in simulated surgical tool-tissue interaction",
+      "conference": "2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+      "createdAt": "2020-07-30",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFXfPpkAAAAJ&citation_for_view=xFXfPpkAAAAJ:u-x6o8ySG0sC",
+      "description": "Haptic feedback can render real-time force interactions with computer simulated objects. In several telerobotic applications, it is desired that a haptic simulation reflects a physical task space or interaction accurately. This is particularly true when excessive applied force can result in disastrous consequences, as with the case of robot-assisted minimally invasive surgery (RMIS) and tissue damage. Since force cannot be directly measured in RMIS, non-contact methods are desired. A promising direction of non-contact force estimation involves the primary use of vision sensors to estimate deformation. However, the required fidelity of non-contact force rendering of deformable interaction to maintain surgical operator performance is not well established"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Telelocomotion—Remotely Operated Legged Robots",
+      "conference": "Multidisciplinary Digital Publishing Institute",
+      "createdAt": "2021-1",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFXfPpkAAAAJ&citation_for_view=xFXfPpkAAAAJ:2osOgNQ5qMEC",
+      "description": "Teleoperated systems enable human control of robotic proxies and are particularly amenable to inaccessible environments unsuitable for autonomy. Examples include emergency response, underwater manipulation, and robot assisted minimally invasive surgery. However, teleoperation architectures have been predominantly employed in manipulation tasks, and are thus only useful when the robot is within reach of the task."
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Contact Sensing via Active Oscillatory Actuation",
+      "conference": "2020 3rd International Conference on Mechatronics, Robotics and Automation (ICMRA)",
+      "createdAt": "2020-10-16",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFXfPpkAAAAJ&citation_for_view=xFXfPpkAAAAJ:qjMakFHDy7sC",
+      "description": "Collaborative robotic approaches seek to incorporate either direct human intervention in tasks previously suited for isolated robot devices, or to use precise machines (cobots) to assist in sensitive tasks."
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "MOSFET Channel Engineering and Scaling Study using COMSOL® Multiphysics Simulation Software",
+      "conference": "COMSOL Conference 2019",
+      "createdAt": "2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xFXfPpkAAAAJ&citation_for_view=xFXfPpkAAAAJ:9yKSN-GCB0IC",
+      "description": "With the scaling of semiconductor devices into the nanometer regime, short channel effects such as threshold voltage instability, reduced output resistance, punchthrough and hot-electron degradation persist."
+    }
+  ]
+}
