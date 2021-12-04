@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Divas Sudedi",
+  title: "Divas Subedi",
   logo_name: "Divas Subdedi",
   nickname: "thunder753",
   subTitle:
