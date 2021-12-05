@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Interested in research in mathematical physics, quantum computing, and algorithms.",
   resumeLink:
-    "https://github.com/Sagyam/divas-portfolio/raw/master/Resume_dsubedi.pdf",
+    "https://github.com/thunder753/divas-portfolio/raw/master/Resume_dsubedi.pdf",
   portfolio_repository: "https://github.com/",
 };
 
@@ -38,24 +38,23 @@ const socialMediaLinks = [
     backgroundColor: "#4285F4",
   },
   {
-    name: "Github",
-    link: "https://github.com/thunder753",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
-  },
-  {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/d-subedi//",
-    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    fontAwesomeIcon: "fab fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-
   {
-    name: "Gmail",
-    link: "mailto:divas.subedi@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+    name: "Github",
+    link: "https://github.com/thunder753",
+    fontAwesomeIcon: "fab fa-github", // Reference https://fontawesome.com/icons/github?style=brands
+    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
+  // {
+  //   name: "Trinity",
+  //   link: "mailto:dsubedi@trincoll.edu",
+  //   fontAwesomeIcon: "fa-envelope", // Reference https://fontawesome.com/icons/google?style=brands
+  //   backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+  // },
 ];
 
 const skills = {
